@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +22,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-color: #9d68b5;
+background-image: linear-gradient(90deg, #9d68b5 0%, #4511e4 100%);
+
 }
 
 .App-link {
@@ -36,3 +39,102 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-info {
+  /* background-color: #4A19E2; */
+  background-color: #9d68b5;
+background-image: linear-gradient(90deg, #9d68b5 0%, #4511e4 100%);
+
+  border-color: #4A19E2;
+}
+
+.btn-info:hover {
+  background-color: #FE2492!important;
+  border-color: #FE2492;
+
+  background-image: none;
+}
+
+hr {
+  background-color: #92939C;
+}
+
+.badge-secondary  {
+  background-color: #6876E6;
+}
+
+.text-success {
+  color: #86FF2F!important;
+}
+
+.bg-dark {
+  background-color: #080C21!important;
+  /* color: #303250; */
+  color: white;
+  text-decoration: none;
+  border-top: 4px solid #92939C;
+  height: 5rem;
+}
+
+.navbar {
+  background-color: #080C21;
+  color: white;
+  height: 7rem;
+}
+
+.icono-nav {
+  font-size: 1.7rem!important;
+}
+
+.btn-dark {
+  background-color: transparent;
+  border: none;
+}
+
+.btn-dark:hover {
+  color: #FE2492!important;
+}
+.active {
+  color: #FE2492!important;
+}
+
+.btn-dark a i:hover, .btn-dark a i:hover, .btn-dark a:hover, .btn-dark a p:hover {
+  color: #FE2492!important;
+  text-decoration: none;
+}
+
+.btn-dark a p {
+  color: #fff!important;
+  font-size: 16px;
+}
+
+
+
+.navbar .btn:hover {
+  background-color: transparent!important;
+}
+
+.bg-primary {
+  background-color: #FFF!important;
+}
+
+.billetera-icon{
+  color: #f2775a!important;
+}
+
+/* .shadow {
+  -webkit-box-shadow: 2px 2px 18px 1px #6876E6!important; 
+  box-shadow: 2px 2px 18px 1px #6876E6!important;
+} */
+
+.rounded {
+  border-radius: 15px!important;
+}
+
+.text-gray {
+  color: #92939C;
+}
+
+
+
+
