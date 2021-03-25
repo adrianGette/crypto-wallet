@@ -76,6 +76,10 @@ hr {
   height: 5rem;
 }
 
+/* .icono-home {
+  color: #5491EA!important;
+} */
+
 .navbar {
   background-color: #080C21;
   color: white;
@@ -115,7 +119,7 @@ hr {
 }
 
 .bg-primary {
-  background-color: #FFF!important;
+  background-color: #174064!important;
 }
 
 .billetera-icon{
@@ -128,11 +132,44 @@ hr {
 } */
 
 .rounded {
-  border-radius: 15px!important;
+  border-radius: 0px!important;
+  border: 1px solid #080C21;
 }
 
 .text-gray {
   color: #92939C;
+}
+
+.text-blue {
+  color: #181F39;
+}
+
+.rounded-top {
+  border-color: #080c21;
+}
+
+.text-orange {
+  color: #F7931A!important;
+}
+
+.shadow1 {
+  /* -webkit-box-shadow: 12px 12px 0px -9px #28DD8B; 
+  box-shadow: 12px 12px 0px -9px #28DD8B; */
+  border-top: 3px outset #28DD8B;
+/* outline-offset: 0px; */
+}
+
+.shadow2 {
+  /* -webkit-box-shadow: 12px 12px 0px -9px #28DD8B; 
+  box-shadow: 12px 12px 0px -9px #28DD8B; */
+  border-bottom: 3px outset #28DD8B;
+/* outline-offset: 0px; */
+}
+
+.rounded2 {
+  border-radius: 25px!important;
+  border: 1px solid #080C21;
+  font-size: 16px;
 }
 
 

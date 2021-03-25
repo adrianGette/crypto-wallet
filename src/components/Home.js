@@ -45,7 +45,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-line-chart" aria-hidden="true"></i>
+              <i className="fa fa-line-chart icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -70,7 +70,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-rocket" aria-hidden="true"></i>
+              <i className="fa fa-rocket icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -95,7 +95,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-rocket" aria-hidden="true"></i>
+              <i className="fa fa-rocket icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -120,7 +120,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-btc" aria-hidden="true"></i>
+              <i className="fa fa-btc icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -145,7 +145,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-btc" aria-hidden="true"></i>
+              <i className="fa fa-btc icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -170,7 +170,7 @@ const Home = () => {
         <div className="col-sm-12 col-md-4">
           <h1 className="ml-3">
             <span className="badge badge-secondary ml-3">
-              <i className="fa fa-university" aria-hidden="true"></i>
+              <i className="fa fa-university icono-home" aria-hidden="true"></i>
             </span>
           </h1>
         </div>
@@ -190,12 +190,6 @@ const Home = () => {
 
         <hr className="w100 mt-4 mb-4" />
 
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
         <br />
         <br />
         <br />
